@@ -1,16 +1,12 @@
-## Hi there 👋
+#  Introduction
 
-<!--
-**Kayxiii/Kayxiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Tan Jia Xuan, a student in the Software Maintenance and Evolution course. 
+I expect to learn a lot about modern software maintenance practices and how to work with legacy systems.
+- **Fun fact**: I love playing the guitar in my free time.
+- **Course expectations**: To gain hands-on experience in maintaining and evolving software.
+  
+![My Image]!
+![Profile_Tom](https://github.com/user-attachments/assets/eec3f415-2cd5-4299-99a5-b02ada11b675)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Profile
+You can view my personalized GitHub profile [here](https://github.com/Kayxiii).
