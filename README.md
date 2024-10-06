@@ -5,7 +5,6 @@ I expect to learn a lot about modern software maintenance practices and how to w
 - **Fun fact**: I love playing the guitar in my free time.
 - **Course expectations**: To gain hands-on experience in maintaining and evolving software.
   
-![My Image]!
 ![Profile_Tom](https://github.com/user-attachments/assets/eec3f415-2cd5-4299-99a5-b02ada11b675)
 
 ## GitHub Profile
